@@ -22,3 +22,6 @@ The file training.py contains the command to perform the training of the project
 Results.txt presents a report of the results obtained.
 Classifier.py presents the logic for a binary classification.
 The Excel file explains the meaning of each field in the dataset.
+
+![image](https://github.com/user-attachments/assets/51e87838-8c52-4597-a960-5da2cef932ee)
+
